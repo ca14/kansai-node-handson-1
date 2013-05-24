@@ -15,10 +15,6 @@
 	+ インストール
 	+ 文法
 
-+ express
-	+ 使い方
-	+ プラクティス
-
 + grunt
 	+ jade
 	+ stylus
