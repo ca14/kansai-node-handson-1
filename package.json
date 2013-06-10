@@ -1,0 +1,21 @@
+{
+  "name": "sample2",
+  "description": "sample testable app",
+  "author": "jigsaw <m@jgs.me>",
+  "version": "0.0.1",
+  "engines": {
+    "node": "0.10.3",
+    "npm": "1.2.15"
+  },
+  "dependencies": {
+    "coffee-script": "1.6.2",
+    "grunt": "0.4.1",
+    "grunt-contrib-coffee": "0.6.6",
+    "grunt-contrib-watch": "0.3.1",
+    "source-map-support": "0.1.5",
+    "mocha": "1.10.0"
+  },
+  "scripts": {
+    "start": "grunt coffee; node app.js"
+  }
+}
