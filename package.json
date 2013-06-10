@@ -13,7 +13,9 @@
     "grunt-contrib-coffee": "0.6.6",
     "grunt-contrib-watch": "0.3.1",
     "source-map-support": "0.1.5",
-    "mocha": "1.10.0"
+    "mocha": "1.10.0",
+    "grunt-exec": "0.4.1",
+    "should": "1.2.2"
   },
   "scripts": {
     "start": "grunt coffee; node app.js"
