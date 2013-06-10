@@ -50,7 +50,7 @@
 	
 + テスト
 	+ Mocha
-	+ Sinon
+	+ Supertest
 
 ## 募集人数
 
